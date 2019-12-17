@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c01cdcea-07dd-480d-aa4b-bf7e60207dcf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.generators" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.rakeTasks" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sample_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/models/user_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/models/user_test.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +164,8 @@
       <workItem from="1573888374565" duration="6592000" />
       <workItem from="1574138430601" duration="2479000" />
       <workItem from="1574742957257" duration="1637000" />
-      <workItem from="1575952459051" duration="1804000" />
+      <workItem from="1575952459051" duration="2046000" />
+      <workItem from="1576557295447" duration="1165000" />
     </task>
     <servers />
   </component>
